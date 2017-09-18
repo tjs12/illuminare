@@ -20,3 +20,6 @@ The main code is included in `illumiare` folder.
 The `Videomaker`folder contains the code for making videos
 
 Some samples made by the renderer is contained in `Output samples`.
+
+## Demo
+[Demo video on YouTube](https://www.youtube.com/watch?v=h1o5KSeW3Kc)
